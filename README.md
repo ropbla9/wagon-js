@@ -1,5 +1,3 @@
-# wagon-js
-
 ## Description
  
 Wagon.js is a very small module loader (1.4k) that tuns on top of jQuery. It has very simple usage and you don't need to use an additional wrapper to require.
