@@ -2,6 +2,8 @@ var Wagon = (function (j) {
 
 	// utils
 
+	// edited comented
+
 	function buildErr(msg) {
 		return new Error(msg).toString();
 	}
