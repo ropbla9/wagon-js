@@ -55,11 +55,3 @@ console.log(myModule.public) // logs "public var value"
 console.log(myModule.inheritFromDependencie) // logs inherited var pro dependencie
 	     
 ```
-
-### Conclusion
-
-It's not perfect and even close to being the best. It's just my first project after one year that started programming.
-
-I just glad if it helps someone somehow.
-
-Thank you!
